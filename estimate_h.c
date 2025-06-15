@@ -1,8 +1,5 @@
 #include <stdio.h>
-
 #define LEN     144
-#define REPEAT 1000
-
 typedef struct {
     float re, im; } cpx;
 
